@@ -1,17 +1,11 @@
-# Notice
-Experiments settings reset in `44.0.2403.89`. Open developer tools settings &#9654; Experiments &#9654; [&#10004;] Allow custom UI themes to enable theme again.
+# Gruvbox Dark Theme for Chrome DevTools
 
-
-# Gruvbox Dark Theme for Chrome Devtools
-Gruvbox Dark is a retro groove color scheme for Chrome DevTools. This is a port
-of the Vim version originally by [Pavel Pertsev](https://github.com/morhetz)
-found [here](https://github.com/morhetz/gruvbox).
-
-By now it's only a dark theme, I'm working in the light version too.
+Gruvbox Dark is a retro groove color scheme for Chrome DevTools. This is a port of the Vim version originally by [Pavel Pertsev](https://github.com/morhetz) found [here](https://github.com/morhetz/gruvbox).
 
 Stable and Canary channels are officially supported.  Beta and Dev channels will work, but I'm not testing on them.
 
 ➡ Please follow development for this theme at [chrome devtools themes](https://github.com/eduarbo/chrome-devtools-themes).
+
 
 ## Installation
 
@@ -28,7 +22,9 @@ Stable and Canary channels are officially supported.  Beta and Dev channels will
 
 [devtools]: ./images/devtools.png "Devtools"
 
+
 ## Features
+
 * Majority of inspector chrome re-styled
 * Customized Scrollbars
 * Animations for
