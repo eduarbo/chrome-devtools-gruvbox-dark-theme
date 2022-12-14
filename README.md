@@ -16,8 +16,10 @@ Stable and Canary channels are officially supported.  Beta and Dev channels will
 ## Installation
 
 * Add [Gruvbox Dark](https://chrome.google.com/webstore/detail/devtools-theme-gruvbox-da/njcgdakjdifgccdgnoiphpnihcfopcmj) from the Chrome Web Store.
-* Open `chrome://flags` &#9654; Enable Developer Tools experiments and click "Relaunch Now" at the bottom.
-* Open developer tools settings &#9654; Experiments &#9654; [&#10004;] Allow custom UI themes.
+* Open Chrome Developer Tools
+* Go to Settings > Experiments tab
+* Check "Allow extensions to load custom stylesheets"
+* Reload Chrome
 
 
 ## Preview
